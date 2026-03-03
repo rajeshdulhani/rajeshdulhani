@@ -1,5 +1,6 @@
 # 💫 About Me:
-linux,python,containers
+Engineer at @RedHatOfficial
+Specialized in linux,python,containers
 
 
 ## 🌐 Socials:
