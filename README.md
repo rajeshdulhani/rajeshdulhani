@@ -1,5 +1,6 @@
 # 💫 About Me:
-Engineer at @RedHatOfficial
+
+a seasoned Linux Systems and Infrastructure Specialist with strong expertise in Red Hat Enterprise Linux, automation, system performance, and recovery engineering. I am passionate about solving deep technical problems and designing reliable, scalable, and self-healing systems for enterprise environments.
 Specialized in linux,python,containers
 
 
